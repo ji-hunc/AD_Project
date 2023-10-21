@@ -9,11 +9,11 @@
 - 몰려오는 몬스터들을 스킬로 처치하여 대상을 보호하는 게임
 
 ## 🎥 플레이 화면
-<img src = "https://user-images.githubusercontent.com/55117706/277100453-ecf160d7-fcc0-4fb1-bddb-d7ccaca797f3.png">
+<img src = "https://user-images.githubusercontent.com/55117706/277100453-ecf160d7-fcc0-4fb1-bddb-d7ccaca797f3.png" width = "800" height = "600">
 
 ## 🛠 개발 환경
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width = "800" height = "600">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 ## 🔥 실행방법
