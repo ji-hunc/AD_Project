@@ -11,6 +11,11 @@
 ## 🎥 플레이 화면
 <img src = "https://user-images.githubusercontent.com/55117706/277100453-ecf160d7-fcc0-4fb1-bddb-d7ccaca797f3.png">
 
+## 🛠 개발 환경
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
 ## 🔥 실행방법
 
-main.py 실행
+전체 코드 다운 받은 후, main.py 실행
