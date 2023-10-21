@@ -13,7 +13,7 @@
 
 ## 🛠 개발 환경
 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width = 800 height = 600>
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" width = "800" height = "600">
 
 
 ## 🔥 실행방법
