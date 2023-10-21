@@ -10,3 +10,7 @@
 
 ## 🎥 플레이 화면
 <img src = "https://user-images.githubusercontent.com/55117706/277100453-ecf160d7-fcc0-4fb1-bddb-d7ccaca797f3.png">
+
+## 🔥 실행방법
+
+main.py 실행
